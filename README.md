@@ -7,6 +7,6 @@ increases the level of difficulty from stage to stageץ
 </p>
 
 <h2>website: play the game...</h2>
-<p>https://liorbaru.github.io/the-Simon-game--jQuery-based/</p>
+<p>https://liorbaru.github.io/the_Simon_game-jQuery_based/</p>
 <img class="img2" src="images/site2.png">
 <img class="img2" src="images/site1.png">
